@@ -3,7 +3,7 @@ body{
     font-size: 50px;
 }
 
-#szoveg{
+h1{
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 70px;
@@ -19,8 +19,8 @@ body{
     width: 40px;
 }
 .kep{
-    display: grid;
-    justify-content: flex-end;
+    display: block;
+  margin-left: auto;
 }
 .fejlec{
     background-color: blue;
