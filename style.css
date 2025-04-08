@@ -19,9 +19,8 @@ body{
     width: 40px;
 }
 .kep{
-    margin-left: auto;
-    margin-right: auto;
-    width: 350px;
+    display: grid;
+    justify-content: flex-end;
 }
 .fejlec{
     background-color: blue;
