@@ -7,7 +7,7 @@ h1{
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: 70px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: fantasy;
 }
 .plusz{
     font-weight: bold;
@@ -23,4 +23,5 @@ h1{
 .fejlec{
     background-color: rgb(42, 132, 216);
 }
+
 
