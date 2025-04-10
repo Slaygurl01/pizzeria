@@ -24,4 +24,9 @@ h1{
     background-color: rgb(42, 132, 216);
 }
 
+.lista{
+    height: 100px;
+    width: 300px;
+    font-size: 25pt;
+}
 
